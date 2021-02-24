@@ -28,9 +28,9 @@ Config.objects = {
 -- [[ https://docs.fivem.net/game-references/controls/ ]]
 
 Config.Text = {
-	SitOnChair = '~r~G~w~ to sit',
-	SitOnBed = '~r~E~w~ to sit on the bed',
-	LieOnBed = '~r~E~w~ to lay on your',
-	SwitchBetween = 'Switch between with ~r~Arrow left~w~ and ~r~arrow right~w~',
-	Standup = '~r~F~w~ to stand up!',
+	SitOnChair = '~INPUT_THROW_GRENADE~ to sit',
+	SitOnBed = '~INPUT_PICKUP~ to sit on the bed',
+	LieOnBed = '~INPUT_PICKUP~ to lay on your',
+	SwitchBetween = 'Switch between with ~INPUT_CELLPHONE_LEFT~ and ~INPUT_CELLPHONE_RIGHT~',
+	Standup = '~INPUT_ENTER~ to stand up!',
 }
